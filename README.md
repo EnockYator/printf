@@ -4,7 +4,7 @@ Team Project - Implementation Of The Standard Printf()
 Requirements
 ------------
 
-###General
+### General
 
 *Allowed editors: vi, vim, emacs
 *All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -19,14 +19,14 @@ Requirements
 *All your header files should be include guarded
 *Note that we will not provide the _putchar function for this project
 
-###GitHub
+### GitHub
 
 There should be one project repository per group. The other members do not fork or clone the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%
 
 More Info
 ---------
 
-###Authorised Functions and Macros
+### Authorised Functions and Macros
 
 *write (man 2 write)
 *malloc (man 3 malloc)
