@@ -7,6 +7,7 @@
 
 /* printf.c prototype*/
 int _printf(const char *, ...);
+static void handle_output(char specifier, va_list args);
 
 /* utils.c prototypes*/
 int _strlen(const char *);
