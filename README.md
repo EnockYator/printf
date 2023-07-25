@@ -36,9 +36,9 @@ More Info
 *va_copy (man 3 va_copy)
 *va_arg (man 3 va_arg)
 
-###Compilation
+### Compilation
 
-*Your code will be compiled this way:
+***Your code will be compiled this way:
 '''
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 '''
